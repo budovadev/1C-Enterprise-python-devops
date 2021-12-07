@@ -1,0 +1,8 @@
+sql_srvr  : "STORTS\\MSSQL2019"
+sql_srvr1 : "localhost_MSSQL2019"
+sql_db   : "testdb"
+sql_user : "v8user"
+sql_pwd  : "Gjkmpjdfntkm1c"
+bak_path : "C:\\develop\\scripts\\db_temp"
+bak_name : "testdb.bak"
+bak_ext  : "*.bak"
